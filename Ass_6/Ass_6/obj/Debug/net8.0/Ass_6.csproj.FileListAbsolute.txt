@@ -1,0 +1,14 @@
+C:\Users\smart\OneDrive\Desktop\assign\Ass_6\Ass_6\bin\Debug\net8.0\Ass_6.exe
+C:\Users\smart\OneDrive\Desktop\assign\Ass_6\Ass_6\bin\Debug\net8.0\Ass_6.deps.json
+C:\Users\smart\OneDrive\Desktop\assign\Ass_6\Ass_6\bin\Debug\net8.0\Ass_6.runtimeconfig.json
+C:\Users\smart\OneDrive\Desktop\assign\Ass_6\Ass_6\bin\Debug\net8.0\Ass_6.dll
+C:\Users\smart\OneDrive\Desktop\assign\Ass_6\Ass_6\bin\Debug\net8.0\Ass_6.pdb
+C:\Users\smart\OneDrive\Desktop\assign\Ass_6\Ass_6\obj\Debug\net8.0\Ass_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smart\OneDrive\Desktop\assign\Ass_6\Ass_6\obj\Debug\net8.0\Ass_6.AssemblyInfoInputs.cache
+C:\Users\smart\OneDrive\Desktop\assign\Ass_6\Ass_6\obj\Debug\net8.0\Ass_6.AssemblyInfo.cs
+C:\Users\smart\OneDrive\Desktop\assign\Ass_6\Ass_6\obj\Debug\net8.0\Ass_6.csproj.CoreCompileInputs.cache
+C:\Users\smart\OneDrive\Desktop\assign\Ass_6\Ass_6\obj\Debug\net8.0\Ass_6.dll
+C:\Users\smart\OneDrive\Desktop\assign\Ass_6\Ass_6\obj\Debug\net8.0\refint\Ass_6.dll
+C:\Users\smart\OneDrive\Desktop\assign\Ass_6\Ass_6\obj\Debug\net8.0\Ass_6.pdb
+C:\Users\smart\OneDrive\Desktop\assign\Ass_6\Ass_6\obj\Debug\net8.0\Ass_6.genruntimeconfig.cache
+C:\Users\smart\OneDrive\Desktop\assign\Ass_6\Ass_6\obj\Debug\net8.0\ref\Ass_6.dll

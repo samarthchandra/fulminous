@@ -1,0 +1,14 @@
+C:\Users\smart\OneDrive\Desktop\assign\Assign_3\Assign_3\obj\Debug\net8.0\Assign_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smart\OneDrive\Desktop\assign\Assign_3\Assign_3\obj\Debug\net8.0\Assign_3.AssemblyInfoInputs.cache
+C:\Users\smart\OneDrive\Desktop\assign\Assign_3\Assign_3\obj\Debug\net8.0\Assign_3.AssemblyInfo.cs
+C:\Users\smart\OneDrive\Desktop\assign\Assign_3\Assign_3\obj\Debug\net8.0\Assign_3.csproj.CoreCompileInputs.cache
+C:\Users\smart\OneDrive\Desktop\assign\Assign_3\Assign_3\bin\Debug\net8.0\Assign_3.exe
+C:\Users\smart\OneDrive\Desktop\assign\Assign_3\Assign_3\bin\Debug\net8.0\Assign_3.deps.json
+C:\Users\smart\OneDrive\Desktop\assign\Assign_3\Assign_3\bin\Debug\net8.0\Assign_3.runtimeconfig.json
+C:\Users\smart\OneDrive\Desktop\assign\Assign_3\Assign_3\bin\Debug\net8.0\Assign_3.dll
+C:\Users\smart\OneDrive\Desktop\assign\Assign_3\Assign_3\bin\Debug\net8.0\Assign_3.pdb
+C:\Users\smart\OneDrive\Desktop\assign\Assign_3\Assign_3\obj\Debug\net8.0\Assign_3.dll
+C:\Users\smart\OneDrive\Desktop\assign\Assign_3\Assign_3\obj\Debug\net8.0\refint\Assign_3.dll
+C:\Users\smart\OneDrive\Desktop\assign\Assign_3\Assign_3\obj\Debug\net8.0\Assign_3.pdb
+C:\Users\smart\OneDrive\Desktop\assign\Assign_3\Assign_3\obj\Debug\net8.0\Assign_3.genruntimeconfig.cache
+C:\Users\smart\OneDrive\Desktop\assign\Assign_3\Assign_3\obj\Debug\net8.0\ref\Assign_3.dll
